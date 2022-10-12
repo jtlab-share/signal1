@@ -23,7 +23,7 @@ basic.forever(function () {
 })
 basic.forever(function () {
     signal = 1
-    basic.pause(1000)
+    basic.pause(5000)
     signal = 2
     basic.pause(2000)
     signal = 3
